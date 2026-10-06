@@ -96,12 +96,18 @@ module4/
 | Users | Go offline, reopen tab | Error message with "Try again" |
 | Users | Type `ervin` in search | Only Ervin Howell is shown |
 
-## Screenshots
-Add screenshots of each exercise to the `screenshots/` folder and link them here:
+---
 
-```
+## Screenshots
+
+### Student Profile
 ![Student Profile](screenshots/profile.png)
+
+### Student Marks
 ![Student Marks](screenshots/marks.png)
+
+### Login Form
 ![Login](screenshots/login.png)
+
+### User List
 ![User List](screenshots/users.png)
-```
